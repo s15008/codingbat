@@ -108,11 +108,7 @@ description
 def string_times(str, n):
   return str*n
 ```
-### num
-description
 
-```
-```
 ### front_times
 description
 
